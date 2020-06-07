@@ -1,9 +1,9 @@
 # Installing Lumbermill
 
+## Joining the community discord server
+
 ## Basic install
 
-## Check everything's working
+## Syncing
 
-## Let us know if anything breaks!
-
-## Under the Hood
+## Local vs Farm Processing

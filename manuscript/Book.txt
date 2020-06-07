@@ -5,6 +5,7 @@ basic-project-management.md
 versioning.md
 publishing.md
 reviews.md
+smedge-as-a-queue-manager.md
 
 
 
