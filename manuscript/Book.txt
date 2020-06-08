@@ -1,11 +1,11 @@
-installing-lumbermill.md
-set-up-syncing.md
-ingestion.md
-basic-project-management.md
-versioning.md
-publishing.md
-reviews.md
-smedge-as-a-queue-manager.md
+1-installing-lumbermill.md
+2-set-up-syncing.md
+3-ingestion.md
+4-basic-project-management.md
+5-versioning.md
+6-publishing.md
+7-reviews.md
+8-local-vs-farm-renders.md
 
 
 
