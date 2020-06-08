@@ -4,7 +4,7 @@
 
 Before you get started with Lumbermill - [join the community discord server](https://discord.com/channels/719523150651719701/719523150651719704) 
 
-General Rules & Etiquite.
+### General Rules & Etiquite.
 
 Chat about generally anything on the #general channel
 Bugs are sent to the #bugs channel
