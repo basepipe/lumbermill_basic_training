@@ -1,0 +1,21 @@
+# Leanpub publishing action
+
+name: Publish new version on LeanPub
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Trigger publishing on LeanPub
+      env: # Or as an environment variable
+        LEANPUB_KEY: ${{ secrets.LEANPUB_KEY }}
+      run: |
+        curl -d "api_key=$LEANPUB_KEY" -d "publish[email_readers]=true" https://leanpub.com/minimalpython/publish.json
