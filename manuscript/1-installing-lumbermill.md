@@ -33,6 +33,10 @@ Your Folder should look something like this:
 * First Name
 * Last Name
 
+That's it! You're done! Feel free to move on to Next Steps.
+
+------------------------------
+
 ## Set Up Lumbermill for a New Company
 
 ### Video
