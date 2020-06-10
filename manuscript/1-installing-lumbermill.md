@@ -22,12 +22,11 @@ Your Folder should look something like this:
 
 ## Set Up Lumbermill for an Existing Company
 
-Just go through and double click on each .bat script in order.  
-[](https://www.youtube.com/watch?v=BE8X5HWJiuA) of the process if you want to follow along.
+Just go through and double click on each .bat script in order.
+{type: video, poster: "https://i9.ytimg.com/vi/BE8X5HWJiuA/mq1.jpg?sqp=CMDhg_cF&rs=AOn4CLAIOtg2G8_gvV6gm0zVZcZNwRsFjg"}
+![Detailed Installation Video: Existing Company](https://www.youtube.com/watch?v=BE8X5HWJiuA)
 
-You should have the "company name" given to you by the company you're working with when you set up lumbermill.  
-
-You will need this company name in step 4.
+**Company Name:** You'll need this in step 4 - you should have been told what "company name" to use by your producer.  
 
 1) double-click "step_1_install_chocolatey.bat"
 1) double-click "step_2_python_env_setup.bat"
@@ -38,7 +37,7 @@ You will need this company name in step 4.
 
 * during step 5 if your company is using Ftrack, or Shotgun you will be asked to enter that inforamtion.
 
-![](proj-man-login.png)
+![Project Management Login](proj-man-login.png)
 * Login Email - the email used when connecting to Ftrack
 * email - your email (if different) - often this is just the same email.
 * First Name
@@ -47,7 +46,7 @@ You will need this company name in step 4.
 ## Set Up Lumbermill for a New Company
 
 Just go through and double click on each .bat script in order.  
-[Here's a video](https://youtu.be/FawxhaCx9ao) of the process if you want to follow along.
+![Detailed Installation Video: New Company](https://youtu.be/FawxhaCx9ao) of the process if you want to follow along.
 
 1) double-click "step_1_install_chocolatey.bat"
 1) double-click "step_2_python_env_setup.bat"
