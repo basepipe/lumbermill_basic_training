@@ -57,4 +57,6 @@ Your Folder should look something like this:
 1) double-click "step_5_launch_lumbermill.bat"
 1) copy "lumbermil.bat" to your desktop for general use.
 
-* We have a detailed setup guide for shotgun & ftrack for those setting up their studios for the first time.
+## Next Steps
+* Basic Functions in Lumbermill
+
