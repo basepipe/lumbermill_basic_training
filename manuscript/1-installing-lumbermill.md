@@ -23,7 +23,7 @@ Your Folder should look something like this:
 ## Set Up Lumbermill for an Existing Company
 
 Just go through and double click on each .bat script in order.  
-[Here's a video](https://www.youtube.com/watch?v=BE8X5HWJiuA) of the process if you want to follow along.
+[](https://www.youtube.com/watch?v=BE8X5HWJiuA) of the process if you want to follow along.
 
 You should have the "company name" given to you by the company you're working with when you set up lumbermill.  
 
@@ -38,7 +38,7 @@ You will need this company name in step 4.
 
 * during step 5 if your company is using Ftrack, or Shotgun you will be asked to enter that inforamtion.
 
-![Project Management Login](proj-man-login.png)
+![](proj-man-login.png)
 * Login Email - the email used when connecting to Ftrack
 * email - your email (if different) - often this is just the same email.
 * First Name
