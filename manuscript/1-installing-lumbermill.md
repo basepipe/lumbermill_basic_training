@@ -22,10 +22,11 @@ Your Folder should look something like this:
 
 ## Set Up Lumbermill for an Existing Company
 
-Just go through and double click on each .bat script in order.
-{type: video, poster: "https://i9.ytimg.com/vi/BE8X5HWJiuA/mq1.jpg?sqp=CMDhg_cF&rs=AOn4CLAIOtg2G8_gvV6gm0zVZcZNwRsFjg"}
-![Detailed Installation Video: Existing Company](https://www.youtube.com/watch?v=BE8X5HWJiuA)
+### Video
+![Set Up Lumbermill for an Existing Company](https://www.youtube.com/watch?v=BE8X5HWJiuA)
 
+
+### Details
 **Company Name:** You'll need this in step 4 - you should have been told what "company name" to use by your producer.  
 
 1) double-click "step_1_install_chocolatey.bat"
@@ -45,9 +46,10 @@ Just go through and double click on each .bat script in order.
 
 ## Set Up Lumbermill for a New Company
 
-Just go through and double click on each .bat script in order.  
+### Video
 ![Detailed Installation Video: New Company](https://youtu.be/FawxhaCx9ao) of the process if you want to follow along.
 
+### Details
 1) double-click "step_1_install_chocolatey.bat"
 1) double-click "step_2_python_env_setup.bat"
 1) double-click "step_3_setup_cglumberjack.bat"
@@ -56,5 +58,3 @@ Just go through and double click on each .bat script in order.
 1) copy "lumbermil.bat" to your desktop for general use.
 
 * We have a detailed setup guide for shotgun & ftrack for those setting up their studios for the first time.
-
-## Local vs Farm Processing
