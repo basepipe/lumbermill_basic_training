@@ -20,8 +20,6 @@ Your Folder should look something like this:
 
 ![Extracted Zip Folder](lmill_install_folder.jpg)
 
-
-
 ## Set Up Lumbermill for an Existing Company
 
 Just go through and double click on each .bat script in order.  
@@ -38,32 +36,26 @@ You will need this company name in step 4.
 1) double-click "step_5_launch_lumbermill.bat"
 1) copy "lumbermil.bat" to your desktop for general use.
 
-* during step 5 if your company is using Ftrack, or Shotgun you will be asked to enter that inforamtion. 
+* during step 5 if your company is using Ftrack, or Shotgun you will be asked to enter that inforamtion.
+
+![Project Management Login](proj-man-login.png)
+* Login Email - the email used when connecting to Ftrack
+* email - your email (if different) - often this is just the same email.
+* First Name
+* Last Name
 
 ## Set Up Lumbermill for a New Company
 
 Just go through and double click on each .bat script in order.  
-[Here's a video]() of the process if you want to follow along.
+[Here's a video](https://youtu.be/FawxhaCx9ao) of the process if you want to follow along.
 
+1) double-click "step_1_install_chocolatey.bat"
+1) double-click "step_2_python_env_setup.bat"
+1) double-click "step_3_setup_cglumberjack.bat"
+1) double-click "step_4_configure_lumbermill.bat"
+1) double-click "step_5_launch_lumbermill.bat"
+1) copy "lumbermil.bat" to your desktop for general use.
 
-At this point you'll have a lumbermill launch icon on your desktop. 
-
-1) Find the Lumbermill launch icon
-2) Double click it
-3) Register your user
-4) Double Click Lumbermill Icon One more time.
-
-You are ready to work
-
-
-
-
-You can share specific tasks within an asset or shot by selecting the task like this:
-
-
-Then Clicking the Sync button.
-
- 
-
+* We have a detailed setup guide for shotgun & ftrack for those setting up their studios for the first time.
 
 ## Local vs Farm Processing
