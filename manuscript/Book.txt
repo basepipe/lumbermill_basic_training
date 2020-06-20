@@ -1,11 +1,6 @@
 1-installing-lumbermill.md
 2-set-up-syncing.md
-3-ingestion.md
-4-basic-project-management.md
-5-versioning.md
-6-publishing.md
-7-reviews.md
-8-local-vs-farm-renders.md
+
 
 
 
