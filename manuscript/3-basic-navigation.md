@@ -8,10 +8,25 @@ as simply as possible in the user interface.  Typically projects are presented a
 
 # Company Panel
 
+## What is the Company Panel?
+The Company Panel allows you to create different "Companies" for clients, or for simply keeping certain projects set apart from others.
+At a minimum you should have one company reflecting your own company. You can put all the projects into that one company, but you always
+have the option of creating a "company" for each client you work with, or for different aspects of your own studio that you'd like 
+to keep seperate.  Often the deciding factor is if two different parts of your business have different folder structures
+and project management needs.  
+
+## How to Create a Company
+
+## How to Create Custom Company Globals
+
 # Projects Panel
 
-# Assignments
+The Projects Panel shows you all of your projects.  You can choose which project you'd like to work on, or create a new project here.
 
-# Shots/Assets
+## How to Create a Project
 
-# Sequence/Categories
+## View the Project Folder on Disk
+
+## Find a Project in Shotgun
+
+## Find a Project in Ftrack

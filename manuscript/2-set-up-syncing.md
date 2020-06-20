@@ -1,4 +1,4 @@
-#Lumber-Sync
+#Set Up Syncing
 
 Lumbermill has a syncing system designed for film production.  It allows companies to easily share
 complex and large files with each other.  Since Lumbermill knows what's happening with all your files it can be smart

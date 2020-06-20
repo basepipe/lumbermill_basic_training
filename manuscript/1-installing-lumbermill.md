@@ -51,5 +51,5 @@ That's it! You're done! Feel free to move on to Next Steps.
 1) copy "lumbermil.bat" to your desktop for general use.
 
 ## Next Steps
-* Basic Functions in Lumbermill
+* Set up Syncing
 
