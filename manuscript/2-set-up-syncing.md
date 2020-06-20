@@ -1,4 +1,4 @@
-#Set Up Syncing
+# Set Up Syncing
 
 Lumbermill has a syncing system designed for film production.  It allows companies to easily share
 complex and large files with each other.  Since Lumbermill knows what's happening with all your files it can be smart
@@ -10,9 +10,9 @@ Here's the Basic Steps.
 2) [Set up Lumbermill Server](##Set up Lumbermill Server)
 3) [Set up Remote Workstation](##Set up a Remote Workstation)
 
-##Set up AWS Credentials
+## Set up AWS Credentials
 
-###Ensure AWS CLI is installed
+### Ensure AWS CLI is installed
 
 1) Open a CMD Window
 2) type 'aws' and hit enter
@@ -30,7 +30,7 @@ If you got this message - move on to [Configure AWS Settings](###Configure AWS S
     
 If you don't get this message you'll need to install aws cli 
 
-###Configure AWS Settings
+### Configure AWS Settings
 
 Before starting this step you will need the following information:
 * AWS Access Key
@@ -56,7 +56,7 @@ Otherwise the following shows sample values. Replace them with your own values:
     Default output format [None]: json
 
 
-##Set up Lumbermill Server
+## Set up Lumbermill Server
 
 Most productions have a central "hub" where all data is stored.  This can be a network storage server at a studio,
 or simply the hard drive on your computer with a small team.  The computer tied to the storage is where you'll set up the
@@ -75,7 +75,7 @@ You are now set up to start [sharing files](##Sharing Files) with [remote collab
 
 
 
-##Set up a Remote Workstation
+## Set up a Remote Workstation
 
 To set up a remote collaborator for syncing with lumbermill do the following:
 
@@ -88,7 +88,7 @@ To set up a remote collaborator for syncing with lumbermill do the following:
 has been sent to lumbermill.  In a minute or two you will start seeing the remote machines show up in the syncthing web browser.
 
 
-##Sharing Files
+## Sharing Files
 
 With a [Server](##Set up Lumbermill Server) and a [Remote Workstation](##Set up a Remote Workstation) set up you are now 
 ready to share files.  To Share files log in to your server machine and:
