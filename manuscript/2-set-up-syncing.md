@@ -18,7 +18,7 @@ Here's the Basic Steps.
 2) type 'aws' and hit enter
     
 
-If you got this message - move on to [Configure AWS Settings](###Configure AWS Settings)
+If you got this message - move on to [Configure AWS Settings](#Configure AWS Settings)
 
     usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
     To see help text, you can run:
@@ -45,7 +45,7 @@ Once you have that you can move on.
 
     <code>AWS Access Key ID [****************IPHG]:</code>
     
-you have already set up aws, move on to [Setting up your Server](##Setting Up Your Server)
+you have already set up aws, move on to [Setting up your Server](#Set up Lumbermill Server)
     
 Otherwise the following shows sample values. Replace them with your own values:
 
@@ -62,7 +62,7 @@ Most productions have a central "hub" where all data is stored.  This can be a n
 or simply the hard drive on your computer with a small team.  The computer tied to the storage is where you'll set up the
 lumbermill server for the project. Tasks will be "pushed" from here, and all files will be gathered back to here. 
 
-Assuming you have already [Set up AWS Credentials](##Set Up AWS Credentials) - To set up a lumbermill server for your studio:
+Assuming you have already [Set up AWS Credentials](#Set Up AWS Credentials) - To set up a lumbermill server for your studio:
 
 1) Open Lumbermill
 1) Ensure Auto-Start is set to On. 
@@ -71,7 +71,7 @@ Assuming you have already [Set up AWS Credentials](##Set Up AWS Credentials) - T
 1) Click Sync>Set up Server
 1) This will go though a bunch of various things.
 
-You are now set up to start [sharing files](##Sharing Files) with [remote collaborators](##Set up a Remote Workstation). 
+You are now set up to start [sharing files](#Sharing Files) with [remote collaborators](#Set up a Remote Workstation). 
 
 
 
@@ -90,7 +90,7 @@ has been sent to lumbermill.  In a minute or two you will start seeing the remot
 
 ## Sharing Files
 
-With a [Server](##Set up Lumbermill Server) and a [Remote Workstation](##Set up a Remote Workstation) set up you are now 
+With a [Server](#Set up Lumbermill Server) and a [Remote Workstation](#Set up a Remote Workstation) set up you are now 
 ready to share files.  To Share files log in to your server machine and:
 
 1) Open Lumbermill
