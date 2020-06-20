@@ -58,9 +58,7 @@ Otherwise the following shows sample values. Replace them with your own values:
 
 ## Set up Lumbermill Server
 
-Most productions have a central "hub" where all data is stored.  This can be a network storage server at a studio,
-or simply the hard drive on your computer with a small team.  The computer tied to the storage is where you'll set up the
-lumbermill server for the project. Tasks will be "pushed" from here, and all files will be gathered back to here. 
+Most productions have a central "hub" where all data is stored.  This can be a network storage server at a studio, or simply the hard drive on your computer with a small team.  The computer tied to the storage is where you'll set up the lumbermill server for the project. Tasks will be "pushed" from here, and all files will be gathered back to here. 
 
 Assuming you have already [Set up AWS Credentials](#Set Up AWS Credentials) - To set up a lumbermill server for your studio:
 
@@ -84,14 +82,12 @@ To set up a remote collaborator for syncing with lumbermill do the following:
     1) if Sync>Auto-Start: Off toggle it to On.
     1) Restart Lumbermill
 2) Click Sync> Set up Workstation
-1) You Should See the following printout in the Lumberwatch CMD window.  When you see this you know your machine registration
-has been sent to lumbermill.  In a minute or two you will start seeing the remote machines show up in the syncthing web browser.
+1) You Should See the following printout in the Lumberwatch CMD window.  When you see this you know your machine registration has been sent to lumbermill.  In a minute or two you will start seeing the remote machines show up in the syncthing web browser.
 
 
 ## Sharing Files
 
-With a [Server](#Set up Lumbermill Server) and a [Remote Workstation](#Set up a Remote Workstation) set up you are now 
-ready to share files.  To Share files log in to your server machine and:
+With a [Server](#Set up Lumbermill Server) and a [Remote Workstation](#Set up a Remote Workstation) set up you are now ready to share files.  To Share files log in to your server machine and:
 
 1) Open Lumbermill
 2) Click Sync>Share Files
