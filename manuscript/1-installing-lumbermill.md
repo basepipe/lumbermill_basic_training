@@ -1,5 +1,5 @@
 # Installing Lumbermill
-
+ 
 ## Windows install
 
 1) [Download](https://cgl-developeronboarding.s3.amazonaws.com/lumbermill_installer.zip) the lumbermill installer. 
@@ -19,11 +19,13 @@ Your Folder should look something like this:
 **Company Name:** You'll need this in step 4 - you should have been told what "company name" to use by your producer.  
 
 1) double-click "step_1_install_chocolatey.bat"
-1) double-click "step_2_python_env_setup.bat"
-1) double-click "step_3_setup_cglumberjack.bat"
-1) double-click "step_4_configure_lumbermill.bat"
-1) double-click "step_5_launch_lumbermill.bat"
-1) copy "lumbermil.bat" to your desktop for general use.
+2) double-click "step_2_python_env_setup.bat"
+3) double-click "step_3_setup_cglumberjack.bat"
+4) double-click "step_4_configure_lumbermill.bat"
+    * You'll need your company name at this stage.
+    * ![Config Dialog](build_config.jpg)
+5) double-click "step_5_launch_lumbermill.bat"
+6) copy "lumbermil.bat" to your desktop for general use.
 
 * during step 5 if your company is using Ftrack, or Shotgun you will be asked to enter that inforamtion.
 
@@ -44,11 +46,13 @@ That's it! You're done! Feel free to move on to Next Steps.
 
 ### Details
 1) double-click "step_1_install_chocolatey.bat"
-1) double-click "step_2_python_env_setup.bat"
-1) double-click "step_3_setup_cglumberjack.bat"
-1) double-click "step_4_configure_lumbermill.bat"
-1) double-click "step_5_launch_lumbermill.bat"
-1) copy "lumbermil.bat" to your desktop for general use.
+2) double-click "step_2_python_env_setup.bat"
+3) double-click "step_3_setup_cglumberjack.bat"
+4) double-click "step_4_configure_lumbermill.bat"
+    * Enter your company name here:
+    * ![Config Dialog](build_config.jpg)
+5) double-click "step_5_launch_lumbermill.bat"
+6) copy "lumbermil.bat" to your desktop for general use.
 
 ## Next Steps
 * Set up Syncing
