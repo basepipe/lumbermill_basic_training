@@ -20,6 +20,7 @@ Here's the Basic Steps.
 
 If you got this message - move on to [Configure AWS Settings](#Configure AWS Settings)
 
+```
     usage: aws [options] <command> <subcommand> [<subcommand> ...] [parameters]
     To see help text, you can run:
 
@@ -27,6 +28,7 @@ If you got this message - move on to [Configure AWS Settings](#Configure AWS Set
       aws <command> help
       aws <command> <subcommand> help
     ws: error: the following arguments are required: command
+```
     
 If you don't get this message you'll need to install aws cli 
 
@@ -43,17 +45,21 @@ Once you have that you can move on.
 2) type 'aws configure'
 3) if you see something like this:
 
-    <code>AWS Access Key ID [****************IPHG]:</code>
+```
+AWS Access Key ID [****************IPHG]:
+```
     
 you have already set up aws, move on to [Setting up your Server](#Set up Lumbermill Server)
     
 Otherwise the following shows sample values. Replace them with your own values:
 
+```
     $ aws configure
     AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
     AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
     Default region name [None]: us-east-1
     Default output format [None]: json
+```
 
 
 ## Set up Lumbermill Server
