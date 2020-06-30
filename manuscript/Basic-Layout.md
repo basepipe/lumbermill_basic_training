@@ -1,24 +1,4 @@
-# Lumbermill - The Magic File Browser {#The-Magic-Browser}
-
-Imagine you had a magical file browser.  
-
-When you used this magical file browser you found your tasks with 1-3 clicks.  It completely eliminated hunting through folders and searching for files for your tasks.  
-
-This magical file browser did most of the work of your coordinators by constantly monitoring and updating your production management software for you.
-
-It gave artists the ability to get their work reviewed with the click of a button.
-
-It made versioning up tasks as easy as clicking, and ensured a record was kept of all the iterations worked on.
-
-Your magical file browser could even ingest files from clients, and create deliveries when projects were completed.  
-
-Wouldn't it be amazing?
-
-It is.  We're building it at CG Lumberjack. 
-
-Lumbermill is that magic file browser.   This is how it works. 
-
-## Basic Layout
+# Basic Layout
 
 ![Companies Page](Key.png)
 
