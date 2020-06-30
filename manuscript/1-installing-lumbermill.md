@@ -22,12 +22,12 @@ Your Folder should look something like this:
 2) double-click "step_2_python_env_setup.bat"
 3) double-click "step_3_setup_cglumberjack.bat"
 4) double-click "step_4_configure_lumbermill.bat"
-    * You'll need your company name at this stage.
-    * ![Config Dialog](build_config.jpg)
+    1) You'll need your company name at this stage.
+    2) ![Config Dialog](build_config.png)
 5) double-click "step_5_launch_lumbermill.bat"
 6) copy "lumbermil.bat" to your desktop for general use.
 
-* during step 5 if your company is using Ftrack, or Shotgun you will be asked to enter that inforamtion.
+ - during step 5 if your company is using Ftrack, or Shotgun you will be asked to enter that inforamtion.
 
 ![Project Management Login](proj-man-login.png)
 * Login Email - the email used when connecting to Ftrack
@@ -50,7 +50,7 @@ That's it! You're done! Feel free to move on to Next Steps.
 3) double-click "step_3_setup_cglumberjack.bat"
 4) double-click "step_4_configure_lumbermill.bat"
     * Enter your company name here:
-    * ![Config Dialog](build_config.jpg)
+    * ![Config Dialog](build_config.png)
 5) double-click "step_5_launch_lumbermill.bat"
 6) copy "lumbermil.bat" to your desktop for general use.
 
