@@ -5,9 +5,9 @@ This lesson takes you through creating a test project and seeing how Lumbermill 
 - Create a Company
 - Create a Project
 - Create a Shot
-    - Create Shot Tasks
+  - Create Shot Tasks
 - Create an Asset
-    - Create Asset Tasks
+  - Create Asset Tasks
 - Create Assignments
 - Organize Files
 - Request Reviews
@@ -48,9 +48,9 @@ To Create an Asset:
 To create an Assignment
 
 1) Navigate to the Files Page of the task you want to work with.
-3) Click the Create Assignment Button
-4) enter the name of the artist you're creating an assignment for
-5) Click Ok.
+2) Click the Create Assignment Button
+3) enter the name of the artist you're creating an assignment for
+4) Click Ok
 
 ## Add Files to a Task
 
