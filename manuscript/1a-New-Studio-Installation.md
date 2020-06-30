@@ -1,6 +1,6 @@
 # Basic Installation {#basic-install}
 
-## Windows install
+### Windows install
 
 1) [Download](https://cgl-developeronboarding.s3.amazonaws.com/lumbermill_installer.zip) the lumbermill installer. 
 2) Unzip the folder

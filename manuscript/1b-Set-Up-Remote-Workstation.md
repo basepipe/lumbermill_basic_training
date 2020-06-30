@@ -1,6 +1,6 @@
 # Setup Lumbermill on a Remote Workstation {#setup-remote-workstation}
  
-## Windows install
+### Windows install
 
 1) [Download](https://cgl-developeronboarding.s3.amazonaws.com/lumbermill_installer.zip) the lumbermill installer. 
 1) Unzip the folder

@@ -14,7 +14,7 @@ What if on top of all that this magic file browser had the ability to customize 
 
 This magic file browser exists, it's been brought to you by an inter-gallictic space lumberjack, and it's called "Lumbermill".  
 
-## Where to Start
+### Where to Start
 
 1) [Install Lumbermill](#installing-lumbermill)
 2) [Lumbermill Core Functionality](#core-functionality)

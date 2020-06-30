@@ -13,7 +13,7 @@
 9) **Go to Folder** - Opens a file browser to the current folder
 10) **Menu** - Main Lumbermill Menu
 
-## Lumbermill Pages
+### Lumbermill Pages
 
 Lumbermill has the following pages. 
 
