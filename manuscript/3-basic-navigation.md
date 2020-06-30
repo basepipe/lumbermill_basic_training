@@ -1,4 +1,4 @@
-# The Magic File Browser
+# Lumbermill - The Magic File Browser
 
 Imagine you had a magical file browser.  
 
