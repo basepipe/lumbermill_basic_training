@@ -8,6 +8,7 @@
 4-Software-Integrations.md
 5-Intro-to-Pipeline-Designer.md
 6-The-Ingest-Tool.md
+7-Appendicies.md
 Basic-Layout.md
 Configure-AWS.md
 Create-A-Test-Project.md
