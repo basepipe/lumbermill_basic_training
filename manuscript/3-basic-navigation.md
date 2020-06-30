@@ -1,8 +1,22 @@
-# The Lumbermill Interface
+# The Magic File Browser
 
-Imagine if your File Browser was intelligent.  If it knew what you needed before you did.  If it was designed to get you where you needed to go with as few clicks as humanly possible. 
+Imagine you had a magical file browser.  
 
-That's what Lumbermill does.  It packs all the functionality of a world class production studio into a simple to use interface.  
+When you used this magical file browser you found your tasks with 1-3 clicks.  It completely eliminated hunting through folders and searching for files for your tasks.  
+
+This magical file browser did most of the work of your coordinators by constantly monitoring and updating your production management software for you.
+
+It gave artists the ability to get their work reviewed with the click of a button.
+
+It made versioning up tasks as easy as clicking, and ensured a record was kept of all the iterations worked on.
+
+Your magical file browser could even ingest files from clients, and create deliveries when projects were completed.  
+
+Wouldn't it be amazing?
+
+It is.  We're building it at CG Lumberjack. 
+
+Lumbermill is that magic file browser.   This is how it works. 
 
 ## Basic Layout
 
@@ -11,7 +25,7 @@ That's what Lumbermill does.  It packs all the functionality of a world class pr
 1) Back Button
     * Takes you back to the previous page.
 2) Companies Shortcut
-    * Takes you to the ![Companies Page](#Companies-Page)
+    * Takes you to the [Companies Page](#Companies-Page)
 3) Refresh
     * Refresh the Current Page
 4) Filter
@@ -31,13 +45,13 @@ That's what Lumbermill does.  It packs all the functionality of a world class pr
 
 ## Lumbermill Pages
 
-1) ![Companies](#Companies-Page)
-2) ![Projects](#Projects-Page)
-3) ![Scope](#Scope-Page)
-4) ![Shots](#Shots-Page)
-5) ![Assets](#Assets-Page)
-6) ![Tasks](#Tasks-Page)
-7) ![Files](#Files-Page)
+1) [Companies](#Companies-Page)
+2) [Projects](#Projects-Page)
+3) [Scope](#Scope-Page)
+4) [Shots](#Shots-Page)
+5) [Assets](#Assets-Page)
+6) [Tasks](#Tasks-Page)
+7) [Files](#Files-Page)
 
 ### Companies
 
