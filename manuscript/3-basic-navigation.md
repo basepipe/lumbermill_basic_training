@@ -53,30 +53,30 @@ Lumbermill is that magic file browser.   This is how it works.
 6) [Tasks](#Tasks-Page)
 7) [Files](#Files-Page)
 
-### Companies
+### Companies {#Companies-Page}
 
-![Companies Page](Companies.png) {#Companies-Page}
+![Companies Page](Companies.png) 
 
-### Projects
+### Projects {#Projects-Page}
 
-![Projects Page](Projects.png) {#Projects-Page}
+![Projects Page](Projects.png) 
 
-### Scope
+### Scope {#Scope-Page}
 
-![Scope Page](Scope.png) {#Scope-Page}
+![Scope Page](Scope.png) 
 
-### Shots
+### Shots {#Shots-Page}
 
-![Shots Page](Shots-View.png) {#Shots-Page}
+![Shots Page](Shots-View.png) 
 
-### Assets
+### Assets {#Assets-Page}
 
-![Assets Page](Assets-Page.png) {#Assets-Page}
+![Assets Page](Assets-Page.png) 
 
-### Tasks
+### Tasks {#Tasks-Page}
 
-![Tasks Page](Shots-Task-View.png) {#Tasks-Page}
+![Tasks Page](Shots-Task-View.png) 
 
-### Files
+### Files {#Files-Page}
 
-![Files Page](Comp-FilesA.png) {#Files-Page}
+![Files Page](Comp-FilesA.png) 
