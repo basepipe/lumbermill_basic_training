@@ -57,11 +57,15 @@ That's it! You're done! Feel free to move on to Next Steps.
 ## Next Steps
 
 If you need to sync files between a server and remote workstations move on to:
- * [Set up Syncing](#Set-Up-Syncing).
+
+* [Set up Syncing](#Set-Up-Syncing).
 
 Otherwise you can get aquainted with lumbermill by moving on to:
+ 
  * [Lumbermill - The Magic Browser](#The-Magic-Browser)
+ 
  or
+ 
  * [Creating a Test Project](#Creating-A-Test-Project).
  
 
