@@ -1,6 +1,7 @@
 1-installing-lumbermill.md
 2-set-up-syncing.md
-3-basic-navigation.md
+3-Pages-Outline.md
+4-Create-A-Test-Project.md
 
 
 
