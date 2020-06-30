@@ -10,6 +10,6 @@ Once you can do the following you've masted the core functions in Lumbermill. In
 6) Get a Review
 7) Publish
 
-## Video
+### Video
 
-## Details
+### Details

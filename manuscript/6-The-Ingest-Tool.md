@@ -21,8 +21,7 @@ You can now Tag and Publish your files.
   * by default lumbermill simply copies files to the publish location for the tagged task.
   * you can learn about creating custom preflights here.
 
-## Video
+### Video
 
-## Details
+### Details
 
-## More on Preflights

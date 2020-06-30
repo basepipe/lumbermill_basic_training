@@ -18,7 +18,7 @@
 5) double-click "step_5_launch_lumbermill.bat"
 6) copy "lumbermil.bat" to your desktop for general use.
 
-## Next Steps
+### Next Steps
 
 If you need to sync files between a server and remote workstations move on to:
 - [Set up Syncing](#Set-Up-Syncing)

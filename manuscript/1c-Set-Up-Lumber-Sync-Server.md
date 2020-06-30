@@ -15,10 +15,10 @@ To set up a Lumber-Sync server follow these steps:
 You are now set up to start Sharing Files with remote collaborators!
 
 
-## Video
+### Video
 
 
-## Details
+### Details
 
 
 
