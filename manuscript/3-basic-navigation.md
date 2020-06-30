@@ -2,25 +2,98 @@
 
 Once lumbermill is installed you are ready to work.  
 
-If you are syncing files you should now be able to navigate lumbermill easily and start working.  Simply Click through the interface to quickly find what you need.  Lumbermill manages the folder structure under the hood, but presents things as simply as possible in the user interface.  Typically projects are presented as follows:
+This is the basic lumbermill layout.  The following image is from the "Companies" page.
 
-## Company Panel
+## Basic Layout
 
-### What is the Company Panel?
-The Company Panel allows you to create different "Companies" for clients, or for simply keeping certain projects set apart from others. At a minimum you should have one company reflecting your own company. You can put all the projects into that one company, but you always have the option of creating a "company" for each client you work with, or for different aspects of your own studio that you'd like to keep seperate.  Often the deciding factor is if two different parts of your business have different folder structures and project management needs.  
+![Companies Page](Key.png)
 
-### How to Create a Company
+1) Back Button
+2) Companies Shortcut
+3) Refresh
+4) Filter
+5) Ingest
+6) Sync Indicator
+7) Browsing Area
+8) Current Path
+9) Go to Folder
+10) Menu
 
-### How to Create Custom Company Globals
+#### Back Button
 
-## Projects Panel
+Goes Back to the previous location within Lumbermill.
 
-The Projects Panel shows you all of your projects.  You can choose which project you'd like to work on, or create a new project here.
+Lumbermill has the following locations
 
-### How to Create a Project
+Companies > Projects > Scope > Assets/Shots > Tasks > Files
 
-### View the Project Folder on Disk
+#### Companies Shortcut
 
-### Find a Project in Shotgun
+Shortcut to the "Companies" Page
 
-### Find a Project in Ftrack
+#### Refresh
+
+Refreshes the Current Page
+
+#### Filter
+
+Type here to filter the contents of the Browsing Area
+
+#### Ingest
+
+Opens the "Ingest" Dialog.  
+
+#### Sync Indicator
+
+Indicates whether lumbermill is currently syncing or not.
+
+#### Browsing Area
+
+Displays available options for the current page.
+
+#### Current Path
+
+Displays the path on disk to the current page or selection
+
+#### Go to Folder
+
+Opens up a windows explorer in the current location.
+
+#### Menu
+
+Lumbermill Menu.  Default menus include:
+
+1) Tools
+2) Sync
+3) Project Management (Shotgun/Ftrack/Lumbermill)
+4) Time
+
+## Pages
+
+### Companies
+
+![](Companies.png)
+
+### Projects
+
+![](Projects.png)
+
+### Scope
+
+![](Scope.png)
+
+### Shots
+
+![](Shots-View.png)
+
+### Assets
+
+![](Assets-Page.png)
+
+### Tasks
+
+![](Shots-Task-View.png)
+
+### Files
+
+![](Comp-FilesA.png)
