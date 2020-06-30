@@ -4,10 +4,8 @@ This lesson takes you through creating a test project and seeing how Lumbermill 
 
 - Create a Company
 - Create a Project
-- Create a Shot
-  - Create Shot Tasks
-- Create an Asset
-  - Create Asset Tasks
+- Create a Shot & Tasks
+- Create an Asset & Tasks
 - Create Assignments
 - Organize Files
 - Request Reviews
