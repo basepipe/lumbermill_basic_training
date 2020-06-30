@@ -20,10 +20,10 @@ This magic file browser exists, it's been brought to you by an inter-gallictic s
 2) [Lumbermill Core Functionality](#core-functionality)
 3) [Sharing Files with Lumber-Sync](#sharing-files)
 4) Software Integrations
-  - [Maya](#set-up-maya)
-  - [Nuke](#set-up-nuke)
-  - [Blender](#set-up-blender)
-  - [Houdini](#set-up-houdini)
-  - [Unreal Engine](#set-up-unreal)
-5) [Introduction to Pipeline Designer]
-6) Ingestion
+    - [Maya](#set-up-maya)
+    - [Nuke](#set-up-nuke)
+    - [Blender](#set-up-blender)
+    - [Houdini](#set-up-houdini)
+    - [Unreal Engine](#set-up-unreal)
+5) [Introduction to Pipeline Designer](#intro-to-pipeline-designer)
+6) [The Ingest tool](#ingestion)

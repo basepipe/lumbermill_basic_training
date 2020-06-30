@@ -1,4 +1,4 @@
-# Intro to Pipeline Designer (#intro-to-pipeline-designer)
+# Intro to Pipeline Designer {#intro-to-pipeline-designer}
 
  - Preflights
  - Menus
